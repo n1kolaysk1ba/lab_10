@@ -118,42 +118,42 @@ body{
 }
 
 .diamond {
-    background: url(../img/diamond.png);
+    background: url(diamond.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-position: center center;
 }
 
  .seven {
-    background: url(../img/seven.png);
+    background: url(seven.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-position: center center;
  }
 
 .horseshoe {
-    background: url(../img/horseshoe.png);
+    background: url(horseshoe.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-position: center center;
 }
 
 .bell {
-    background: url(../img/bell.png);
+    background: url(bell.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-position: center center;
 }
 
 .lemon {
-    background: url(../img/lemon.png);
+    background: url(lemon.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-position: center center;
 }
 
 .cherry {
-    background: url(../img/cherry.png);
+    background: url(cherry.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-position: center center;
